@@ -1,0 +1,23 @@
+.blink {
+    animation: blinker 1s linear infinite;
+    font-family: sans-serif;
+}
+
+@keyframes blinker {
+    80% {
+        opacity: 0;
+    }
+}
+
+.custom-shadow {
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.tag {
+    border: 1px solid lightgreen;
+    color: gray;
+}
+
+.title-color {
+    color: #818df5;
+}
