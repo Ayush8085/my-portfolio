@@ -1,0 +1,184 @@
+{
+    "about_me": {
+        "location": "Chhattisgarh, India",
+        "contact": {
+            "linkedin": "https://www.linkedin.com/in/ayush-kumar-tiwari/",
+            "github": "https://github.com/Ayush8085",
+            "twitter": "https://twitter.com/ayushtiwari1101"
+        },
+        "interest": [
+            "badminton",
+            "volleyball",
+            "football",
+            "basketball"
+        ],
+        "skills": [
+            "Node",
+            "Express",
+            "React",
+            "MongoDB",
+            "PostgreSQL",
+            "MySQL",
+            "Prisma",
+            "TypeScript",
+            "JWT",
+            "Tailwind",
+            "SocketIO",
+            "Python",
+            "Django",
+            "Flask",
+            "Git/GitHub",
+            "HTML/CSS",
+            "JavaScript"
+        ]
+    },
+    "all_projects": [
+        {
+            "id": 1,
+            "title": "Chat app",
+            "description": "Developed a responsive and functional chat application using PERN stack and SocketIO for instant messaging capabilities. Real-time private chat between all the members.",
+            "img": "https://raw.githubusercontent.com/Ayush8085/chat-app/main/screenshots/home.png",
+            "tech_stack": [
+                "PERN (PostgreSQL, Express.js, React.js, Node.js)",
+                "Prisma",
+                "JWT",
+                "SocketIO",
+                "Tailwind.css"
+            ],
+            "source_link": "https://github.com/Ayush8085/chat-app",
+            "live_link": "https://chat-app-ayush8085.vercel.app/"
+        },
+        {
+            "id": 2,
+            "title": "Micro-ecommerce",
+            "description": "An E-commerce website with stripe payment gateway.",
+            "img": "https://ayush8085.github.io/my-portfolio/ecom.png",
+            "tech_stack": [
+                "django",
+                "Python",
+                "PostgreSQL",
+                "Bootstrap",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "source_link": "https://github.com/Ayush8085/e-commerce",
+            "live_link": "https://ayush8085.github.io/my-portfolio/micro-ecom-web.onrender.com"
+        },
+        {
+            "id": 3,
+            "title": "Inventory app",
+            "description": "Personal Inventory website using MERN stack, allowing users to perform CRUD operation on Profile as well as their Products. Authorization and authentication maintained with JWT token.",
+            "img": "https://raw.githubusercontent.com/Ayush8085/MERN-Inventory-app/main/Screenshot.png",
+            "tech_stack": [
+                "MERN (MongoDB, Express.js, React.js, Node.js)",
+                "Redux",
+                "JWT",
+                "Cloudinary API"
+            ],
+            "source_link": "https://github.com/Ayush8085/MERN-Inventory-app",
+            "live_link": "https://mern-inventory-app-client.vercel.app/"
+        }
+    ],
+    "projects": {
+        "python": [
+            {
+                "id": 1,
+                "title": "Study Room",
+                "description": "Integrated features such as real-time chat. Utilized Django's ORM (Object Relational Mapping) for data modeling.",
+                "img": "https://ayush8085.github.io/my-portfolio/study%20room.png",
+                "tech_stack": [
+                    "django",
+                    "Python",
+                    "PostgreSQL",
+                    "Bootstrap",
+                    "HTML",
+                    "CSS",
+                    "JavaScript"
+                ],
+                "source_link": "https://github.com/Ayush8085/Study-Room",
+                "live_link": "https://ayush8085.github.io/my-portfolio/study-app.onrender.com"
+            },
+            {
+                "id": 2,
+                "title": "Micro-ecommerce",
+                "description": "An E-commerce website with stripe payment gateway.",
+                "img": "https://ayush8085.github.io/my-portfolio/ecom.png",
+                "tech_stack": [
+                    "django",
+                    "Python",
+                    "PostgreSQL",
+                    "Bootstrap",
+                    "HTML",
+                    "CSS",
+                    "JavaScript"
+                ],
+                "source_link": "https://github.com/Ayush8085/e-commerce",
+                "live_link": "https://ayush8085.github.io/my-portfolio/micro-ecom-web.onrender.com"
+            },
+            {
+                "id": 3,
+                "title": "Chat Room",
+                "description": "Implemented using django Channels and WebSocket. Users can create rooms, and connect with friends, join chat rooms, and engage in real-time conversations.",
+                "img": "https://raw.githubusercontent.com/Ayush8085/chat-rooms/master/screenshots/rooms.png",
+                "tech_stack": [
+                    "django",
+                    "Python",
+                    "PostgreSQL",
+                    "Bootstrap",
+                    "HTML",
+                    "CSS",
+                    "JavaScript"
+                ],
+                "source_link": "https://github.com/Ayush8085/chat-rooms",
+                "live_link": "https://ayush8085.github.io/my-portfolio/micro-ecom-web.onrender.com"
+            }
+        ],
+        "full_stack": [
+            {
+                "id": 1,
+                "title": "Chat app",
+                "description": "Developed a responsive and functional chat application using PERN stack and SocketIO for instant messaging capabilities. Real-time private chat between all the members.",
+                "img": "https://raw.githubusercontent.com/Ayush8085/chat-app/main/screenshots/home.png",
+                "tech_stack": [
+                    "PERN (PostgreSQL, Express.js, React.js, Node.js)",
+                    "Prisma",
+                    "JWT",
+                    "SocketIO",
+                    "Tailwind.css"
+                ],
+                "source_link": "https://github.com/Ayush8085/chat-app",
+                "live_link": "https://chat-app-ayush8085.vercel.app/"
+            },
+            {
+                "id": 2,
+                "title": "Inventory app",
+                "description": "Personal Inventory website using MERN stack, allowing users to perform CRUD operation on Profile as well as their Products. Authorization and authentication maintained with JWT token.",
+                "img": "https://raw.githubusercontent.com/Ayush8085/MERN-Inventory-app/main/Screenshot.png",
+                "tech_stack": [
+                    "MERN (MongoDB, Express.js, React.js, Node.js)",
+                    "Redux",
+                    "JWT",
+                    "Cloudinary API"
+                ],
+                "source_link": "https://github.com/Ayush8085/MERN-Inventory-app",
+                "live_link": "https://mern-inventory-app-client.vercel.app/"
+            },
+            {
+                "id": 3,
+                "title": "Todo app",
+                "description": "Implemented using django Channels and WebSocket. Users can create rooms, and connect with friends, join chat rooms, and engage in real-time conversations.",
+                "img": "https://raw.githubusercontent.com/Ayush8085/MERN-Auth-todo-app/master/screenshots/todo.png",
+                "tech_stack": [
+                    "PERN (PostgreSQL, Express.js, React.js, Node.js)",
+                    "Prisma",
+                    "JWT",
+                    "SocketIO",
+                    "Tailwind.css"
+                ],
+                "source_link": "https://github.com/Ayush8085/MERN-Auth-todo-app",
+                "live_link": "https://raw.githubusercontent.com/Ayush8085/MERN-Auth-todo-app/master/screenshots/todo.png"
+            }
+        ]
+    }
+}
