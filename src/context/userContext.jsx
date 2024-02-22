@@ -10,6 +10,7 @@ export const UserProvider = ({ children }) => {
     const fetchData = async () => {
       const res = await fetch("my_data.json");
       const data = await res.json();
+      console.log('DATA: ', data);
       setUserData(data);
       setIsLoading(false);
     };
